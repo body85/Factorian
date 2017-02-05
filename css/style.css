@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+html {
+	height: 100%;
+	font-size: 100%;
+}
+body {
+	font: 14px/20px 'open sans', Arial, Tahoma;
+	width: 100%;
+	height: 100%;
+	color: ;
+	background: ;
+}
+
+a{color: ;}
+a:hover {color: ;}
